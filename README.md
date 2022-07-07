@@ -1,0 +1,1 @@
+I was focused on understanding document.querySelectorAll, which somehow turned into trying to learn about APIs. This was my first time trying to even grasp the idea of using APIs and JSON and for the first day it wasn’t so bad at all. Felt good learning the very beginning of a new skill!
